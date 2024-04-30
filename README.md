@@ -4,3 +4,6 @@ Codewars
 - isDuplicate.cpp
 Codeforces
 - 192A - Marathon
+**Day-2**
+Codewars
+- isPrime.cpp
