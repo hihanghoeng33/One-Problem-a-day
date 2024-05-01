@@ -8,3 +8,7 @@ Codeforces
 #### Day 2
 Codewars
 - isPrime.cpp
+
+#### Day 3
+Codewars
+- Vector Collinearity
