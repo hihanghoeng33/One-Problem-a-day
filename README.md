@@ -12,3 +12,7 @@ Codewars
 #### Day 3
 Codewars
 - Vector Collinearity
+
+#### Day 4
+Codewars
+- Powers of i.cpp
