@@ -16,3 +16,11 @@ Codewars
 #### Day 4
 Codewars
 - Powers of i.cpp
+
+#### Day 5
+Codewars
+- Count Odd numbers below N
+
+#### Day 6
+Codeforces
+- Plusorminus
