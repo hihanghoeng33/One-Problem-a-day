@@ -23,4 +23,4 @@ Codewars
 
 #### Day 6
 Codeforces
-- Plusorminus
+- 1807A - Plusorminus
