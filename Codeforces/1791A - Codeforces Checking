@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <string.h>
+int main(){
+    int m;
+    scanf("%d", &m);
+    getchar();
+    char check[11] = "codeforces";
+    int len = strlen(check), checkAvail=0;
+ 
+    char inp;
+    for (int i = 1; i <= m; i++)
+    {
+        checkAvail=0;
+        scanf("%c ", &inp);
+        for (int j = 0; j < len; j++)
+        {
+            if(check[j]==inp){
+                printf("YES");
+                checkAvail=1;
+                break;
+            }else{ 
+                checkAvail=0;
+            }
+              
+        }
+        if (checkAvail==0)
+        {
+            printf("NO");
+        }
+        
+        printf("\n");
+    }
+    
+    
+    return 0;
+}
