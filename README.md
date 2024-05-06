@@ -24,3 +24,7 @@ Codewars
 #### Day 6
 Codeforces
 - 1807A - Plusorminus
+
+#### Day 7
+Codeforces
+758A - Holiday Of Equality
