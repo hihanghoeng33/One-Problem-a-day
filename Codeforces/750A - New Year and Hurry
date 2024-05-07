@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(){
+    int prob, t, ans=0, i=0;
+    scanf("%d %d", &prob, &t);
+    int flag = 240-t;
+    while (ans+((i+1)*5) <= flag && i<=prob-1)
+    {
+        i+=1;
+        ans+=i*5;
+
+    }
+    printf("%d", i);
+    return 0;
+}
