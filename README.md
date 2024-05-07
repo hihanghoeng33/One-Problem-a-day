@@ -28,3 +28,7 @@ Codeforces
 #### Day 7
 Codeforces
 758A - Holiday Of Equality
+
+#### Day 8
+Codeforces
+- 1791A - Codeforces Checking
