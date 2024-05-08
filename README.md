@@ -32,3 +32,9 @@ Codeforces
 #### Day 8
 Codeforces
 - 1791A - Codeforces Checking
+
+#### Day 9
+Codeforces
+- 750A - New Year and Hurry
+Codewars
+- Beeramid.c
