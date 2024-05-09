@@ -38,3 +38,7 @@ Codeforces
 - 750A - New Year and Hurry
 Codewars
 - Beeramid.c
+
+#### Day 10
+Codewars
+- 1669A - Division?
