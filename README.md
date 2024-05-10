@@ -42,3 +42,6 @@ Codewars
 #### Day 10
 Codewars
 - 1669A - Division?
+#### Day 11
+Codewars
+- Basic.sql
