@@ -50,3 +50,6 @@ Codewars
 #### Day 12
 Codewars
 - Numbers.c
+
+#### Day 13
+- Sum Of Tree.c
