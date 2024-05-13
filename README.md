@@ -1,12 +1,12 @@
 ### Solving coding problem everyday
 #### Day 1
-**Codewars**
+##### [Codewars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - isDuplicate.cpp
-Codeforces
+##### [Codeforces](https://codeforces.com/contest/1692/problem/A)
 - 192A - Marathon
 
 #### Day 2
-**Codewars**
+##### [Codewars](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - isPrime.cpp
 
 #### Day 3
