@@ -52,4 +52,9 @@ Codewars
 - Numbers.c
 
 #### Day 13
+Codewars
 - Sum Of Tree.c
+
+#### Day 14
+Codewars
+- Pangram.c
