@@ -1,58 +1,58 @@
 ### Solving coding problem everyday
 #### Day 1
-Codewars
+**Codewars**
 - isDuplicate.cpp
 Codeforces
 - 192A - Marathon
 
 #### Day 2
-Codewars
+**Codewars**
 - isPrime.cpp
 
 #### Day 3
-Codewars
+**Codewars**
 - Vector Collinearity
 
 #### Day 4
-Codewars
+**Codewars**
 - Powers of i.cpp
 
 #### Day 5
-Codewars
+**Codewars**
 - Count Odd numbers below N
 
 #### Day 6
-Codeforces
+**Codeforces**
 - 1807A - Plusorminus
 
 #### Day 7
-Codeforces
+**Codeforces**
 758A - Holiday Of Equality
 
 #### Day 8
-Codeforces
+**Codeforces**
 - 1791A - Codeforces Checking
 
 #### Day 9
-Codeforces
+**Codeforces**
 - 750A - New Year and Hurry
-Codewars
+**Codewars**
 - Beeramid.c
 
 #### Day 10
-Codewars
+**Codewars**
 - 1669A - Division?
 
 #### Day 11
-Codewars
+**Codewars**
 - Basic.sql
 
 #### Day 12
-Codewars
+**Codewars**
 - Numbers.c
 
 #### Day 13
-Codewars
+**Codewars**
 - Sum Of Tree.c
 
 #### Day 14
