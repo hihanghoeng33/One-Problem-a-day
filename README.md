@@ -58,3 +58,7 @@
 #### Day 14
 ##### [Codewars](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 - Pangram.c
+
+#### Day 15
+##### [Codewars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
+- Check the exam.c
