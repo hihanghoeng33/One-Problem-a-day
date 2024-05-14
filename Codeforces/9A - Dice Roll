@@ -1,0 +1,22 @@
+#include <stdio.h>
+ 
+int main(){
+    int Y, W, maks = -1, count = 0;
+    scanf("%d %d", &Y, &W);
+    if (Y >= W)
+    {
+        maks = Y;
+    }else if(W>=Y){
+        maks = W;
+    }
+    for(int i=1;i<=6;i++){
+        if(i>=maks){count++;}
+    }
+    if(6%count==0){
+        printf("1/%d", 6/count);
+    }else if(count%2!=0){
+        printf("%d/6", count);
+    }else{
+        printf("2/3");
+    }
+}
