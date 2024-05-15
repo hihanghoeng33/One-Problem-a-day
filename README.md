@@ -62,3 +62,7 @@
 #### Day 15
 ##### [Codewars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 - Check the exam.c
+
+#### Day 16
+##### [Codeforces](https://codeforces.com/problemset/problem/9/A)
+- 9A - Dice Roll
