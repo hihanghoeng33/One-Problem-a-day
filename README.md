@@ -57,7 +57,7 @@
 
 #### Day 14
 ##### [Codewars](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
-- Pangram.c
+- Pangram.chttps://codeforces.com/contest/1971/problem/A
 
 #### Day 15
 ##### [Codewars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
@@ -66,3 +66,7 @@
 #### Day 16
 ##### [Codeforces](https://codeforces.com/problemset/problem/9/A)
 - 9A - Dice Roll
+
+#### Day 17
+##### [Codeforces](https://codeforces.com/contest/1971/problem/A)
+- 1971A - My First Sorting Problem
