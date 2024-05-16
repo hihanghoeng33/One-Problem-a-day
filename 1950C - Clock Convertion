@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+void convert24to12(char str1[], char str2[]) {
+    int hour = atoi(str1);
+    char period[3] = "AM";
+
+    if (hour == 0) {
+        strcpy(str1, "12");
+    } else if (hour == 12) {
+        strcpy(period, "PM");
+    } else if (hour > 12) {
+        hour -= 12;
+        strcpy(period, "PM");
+    }
+
+    if (hour < 10 && hour!=0) {
+        snprintf(str1, 3, "0%d", hour);
+    } else if(hour>=10){
+        snprintf(str1, 3, "%d", hour);
+    }
+
+    printf("%s:%s %s\n", str1, str2, period);
+}
+
+int main() {
+    int t;
+    char str1[3];  
+    char str2[3];  
+
+    scanf("%d", &t);
+    for (int i = 0; i < t; i++) {
+        scanf("%2s:%2s", str1, str2);
+        convert24to12(str1, str2);
+    }
+
+    return 0;
+}
