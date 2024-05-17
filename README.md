@@ -70,3 +70,7 @@
 #### Day 17
 ##### [Codeforces](https://codeforces.com/contest/1971/problem/A)
 - 1971A - My First Sorting Problem
+
+#### Day 18
+##### [Codeforces](https://codeforces.com/contest/1950/problem/C)
+- 1950C - Clock Conversion
