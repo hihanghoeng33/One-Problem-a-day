@@ -74,3 +74,7 @@
 #### Day 18
 ##### [Codeforces](https://codeforces.com/contest/1950/problem/C)
 - 1950C - Clock Conversion
+
+#### Day 19
+##### [Codewars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+- Moving Zeros To End.c
