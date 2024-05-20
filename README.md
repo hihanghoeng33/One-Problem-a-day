@@ -78,3 +78,12 @@
 #### Day 19
 ##### [Codewars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - Moving Zeros To End.c
+
+#### Day 20
+##### [Codeforces](https://codeforces.com/problemset/problem/1154/A)
+- 1154A - Restoring Three Numbers
+##### [Codewars](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
+- ISBN-10 Validation.c
+##### [Leetcode](https://leetcode.com/submissions/detail/1261895209/)
+-Median of Two Sorted Arrays.c
+
