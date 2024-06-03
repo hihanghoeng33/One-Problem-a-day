@@ -26,3 +26,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
+# Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0083-remove-duplicates-from-sorted-list) |
