@@ -14,6 +14,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -30,3 +31,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0083-remove-duplicates-from-sorted-list) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
