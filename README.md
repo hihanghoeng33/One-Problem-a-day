@@ -35,3 +35,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0009-palindrome-number) |
