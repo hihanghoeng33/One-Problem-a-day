@@ -15,5 +15,6 @@ bool isPalindrome(char* s) {
         i--;
         j++;
     }
+    free(newS);
     return true;
 }
