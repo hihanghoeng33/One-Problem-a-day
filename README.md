@@ -22,10 +22,12 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 # Linked List
 |  |
