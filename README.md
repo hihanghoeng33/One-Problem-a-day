@@ -23,6 +23,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -33,6 +34,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -41,3 +43,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0009-palindrome-number) |
+# Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
