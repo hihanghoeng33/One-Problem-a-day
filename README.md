@@ -28,6 +28,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 # Linked List
@@ -47,3 +48,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
