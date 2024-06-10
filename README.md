@@ -15,6 +15,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
+| [1137-height-checker](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1137-height-checker) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -53,3 +54,11 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1137-height-checker) |
