@@ -29,6 +29,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
@@ -46,9 +47,11 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0007-reverse-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 # Stack
 |  |
