@@ -23,6 +23,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
@@ -31,6 +32,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 # Linked List
@@ -65,3 +67,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1137-height-checker) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
