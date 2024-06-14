@@ -50,6 +50,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0007-reverse-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
 # Hash Table
 |  |
 | ------- |
@@ -71,3 +72,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
+# Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
