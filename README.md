@@ -45,6 +45,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
 # Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
 # Hash Table
 |  |
 | ------- |
@@ -85,3 +87,4 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
