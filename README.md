@@ -56,6 +56,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0367-valid-perfect-square) |
 # Hash Table
 |  |
 | ------- |
@@ -88,3 +89,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
+# Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0367-valid-perfect-square) |
