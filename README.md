@@ -53,6 +53,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
 # Hash Table
 |  |
 | ------- |
@@ -83,3 +84,4 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
