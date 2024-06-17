@@ -28,6 +28,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0125-valid-palindrome](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0633-sum-of-square-numbers) |
 # Enumeration
 |  |
 | ------- |
