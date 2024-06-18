@@ -13,6 +13,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0204-count-primes) |
@@ -20,6 +21,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Two Pointers
 |  |
