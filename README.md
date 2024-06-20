@@ -31,6 +31,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0141-linked-list-cycle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0680-valid-palindrome-ii) |
 # String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
+| [0680-valid-palindrome-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0680-valid-palindrome-ii) |
 # Simulation
 |  |
 | ------- |
@@ -108,3 +110,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0204-count-primes) |
+# Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0680-valid-palindrome-ii) |
