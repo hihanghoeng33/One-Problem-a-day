@@ -58,6 +58,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0009-palindrome-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0326-power-of-three) |
@@ -86,6 +87,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0171-excel-sheet-column-number) |
 | [0680-valid-palindrome-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0680-valid-palindrome-ii) |
 # Simulation
 |  |
