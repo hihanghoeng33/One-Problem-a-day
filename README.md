@@ -116,3 +116,19 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0680-valid-palindrome-ii) |
+# Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
