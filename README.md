@@ -74,6 +74,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0094-binary-tree-inorder-traversal) |
 # Sorting
 |  |
 | ------- |
@@ -119,11 +120,13 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
 # Breadth-First Search
@@ -134,5 +137,6 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
