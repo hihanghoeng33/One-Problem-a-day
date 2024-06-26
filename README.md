@@ -76,6 +76,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0020-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 # Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -148,3 +151,4 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0101-symmetric-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
