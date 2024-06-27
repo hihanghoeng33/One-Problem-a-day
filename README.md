@@ -13,6 +13,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0033-search-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0633-sum-of-square-numbers) |
 # Enumeration
