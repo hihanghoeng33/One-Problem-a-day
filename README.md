@@ -152,3 +152,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0112-path-sum](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1916-find-center-of-star-graph) |
