@@ -182,4 +182,12 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
