@@ -186,6 +186,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
