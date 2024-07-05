@@ -199,4 +199,16 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
