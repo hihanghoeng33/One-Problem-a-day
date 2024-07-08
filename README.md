@@ -180,6 +180,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -215,4 +218,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
