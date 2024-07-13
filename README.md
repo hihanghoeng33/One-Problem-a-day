@@ -167,6 +167,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,4 +258,5 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
