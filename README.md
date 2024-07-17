@@ -211,6 +211,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
