@@ -165,12 +165,14 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
