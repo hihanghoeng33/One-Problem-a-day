@@ -1,4 +1,4 @@
-#[A. Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) 
+<h2>[A. Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)</h2>
 
 **time limit per test**: 1 second  
 **memory limit per test**: 256 megabytes  
