@@ -196,6 +196,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
@@ -269,4 +270,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
