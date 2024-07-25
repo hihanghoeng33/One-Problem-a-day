@@ -177,6 +177,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -186,6 +187,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -199,6 +201,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -209,10 +212,12 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
