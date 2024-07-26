@@ -187,6 +187,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
@@ -201,6 +202,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
@@ -217,6 +219,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
