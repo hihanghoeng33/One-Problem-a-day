@@ -232,6 +232,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -291,8 +292,17 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0203-remove-linked-list-elements](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
