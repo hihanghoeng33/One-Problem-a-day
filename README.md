@@ -210,6 +210,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
+| [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,4 +309,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
