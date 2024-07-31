@@ -231,6 +231,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
@@ -258,6 +259,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
