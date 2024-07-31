@@ -233,6 +233,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
@@ -245,6 +246,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -252,6 +254,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
