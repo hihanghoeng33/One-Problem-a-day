@@ -1,5 +1,5 @@
 <h1> Leviathan </h1>
---
+
 <h3> Dare you face the lord of the oceans? </h3>
 
 Leviathan is a wargame that has been rescued from the demise of intruded.net, previously hosted on leviathan.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
