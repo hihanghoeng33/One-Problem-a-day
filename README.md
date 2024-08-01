@@ -210,6 +210,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
 ## Binary Search
 |  |
@@ -249,6 +250,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
