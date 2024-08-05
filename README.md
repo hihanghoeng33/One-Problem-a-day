@@ -214,6 +214,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
@@ -233,6 +234,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -256,6 +258,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -327,4 +330,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
