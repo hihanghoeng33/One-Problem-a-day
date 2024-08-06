@@ -231,6 +231,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -254,6 +255,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
@@ -333,5 +335,6 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
