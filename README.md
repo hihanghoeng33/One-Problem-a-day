@@ -179,6 +179,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -192,6 +193,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -208,6 +210,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -337,4 +340,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
