@@ -262,6 +262,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
+| [0551-student-attendance-record-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0551-student-attendance-record-i) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
