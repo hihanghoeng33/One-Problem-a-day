@@ -213,6 +213,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -238,6 +239,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -289,6 +291,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
@@ -348,4 +351,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
