@@ -1,13 +1,13 @@
-# ✅This is my repo to save every problem that I solved on online website
+# âThis is my repo to save every problem that I solved on online website
 ---
 Every accepted solution will be documented in every folder in this repo. The folder such as [Codeforces](/Codeforces/), [Codewars](/Codewars/), and Leetcode(auto commit using extension). Current language used: C/C++.
 ##
 
 
-# Eat Code Sleep 🔁
+# Eat Code Sleep ð
 |  |
 | ------- |
-# Stay foolish 💩
+# Stay foolish ð©
 |  |
 | ------- |
 # Array
@@ -355,4 +355,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
