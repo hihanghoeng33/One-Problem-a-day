@@ -299,6 +299,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0476-number-complement) |
 ## Stack
 |  |
 | ------- |
