@@ -208,6 +208,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
@@ -255,6 +256,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
@@ -343,6 +345,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Dynamic Programming
 |  |
