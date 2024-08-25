@@ -307,6 +307,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
@@ -315,12 +316,14 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -333,6 +336,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
