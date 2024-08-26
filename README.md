@@ -178,6 +178,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
@@ -213,6 +214,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
