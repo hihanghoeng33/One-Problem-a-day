@@ -312,6 +312,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
@@ -320,6 +321,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0111-minimum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0404-sum-of-left-leaves) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0111-minimum-depth-of-binary-tree](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0404-sum-of-left-leaves) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
