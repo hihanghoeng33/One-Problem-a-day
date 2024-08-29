@@ -267,6 +267,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
