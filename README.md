@@ -222,6 +222,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0485-max-consecutive-ones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -241,6 +242,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
