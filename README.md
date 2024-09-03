@@ -290,6 +290,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0657-robot-return-to-origin](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
@@ -301,6 +302,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
