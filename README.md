@@ -255,6 +255,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -288,6 +289,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0551-student-attendance-record-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
