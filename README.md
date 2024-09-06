@@ -221,6 +221,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0890-lemonade-change) |
@@ -255,6 +256,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
