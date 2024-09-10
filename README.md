@@ -279,6 +279,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0504-base-7](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
@@ -378,6 +379,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -414,4 +416,12 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0077-combinations](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0077-combinations) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
