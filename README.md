@@ -233,6 +233,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
@@ -263,6 +264,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 ## Math
@@ -299,6 +301,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0782-jewels-and-stones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
@@ -324,6 +327,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -395,6 +399,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
