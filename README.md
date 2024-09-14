@@ -188,6 +188,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
