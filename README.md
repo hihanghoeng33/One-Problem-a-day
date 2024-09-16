@@ -325,6 +325,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0461-hamming-distance) |
@@ -384,6 +385,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
