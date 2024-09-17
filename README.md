@@ -286,6 +286,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1236-n-th-tribonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
+| [2491-smallest-even-multiple](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2491-smallest-even-multiple) |
 | [2645-pass-the-pillow](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
@@ -433,4 +434,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
