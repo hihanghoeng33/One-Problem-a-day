@@ -188,11 +188,13 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
@@ -214,6 +216,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0283-move-zeroes) |
@@ -252,6 +255,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0349-intersection-of-two-arrays) |
@@ -403,6 +407,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
