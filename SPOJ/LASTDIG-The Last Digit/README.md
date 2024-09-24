@@ -1,6 +1,6 @@
 <h2><a href="spoj.com/problems/LASTDIG/">LASTDIG-The Last Digit</a></h2>
 
-#number-theory #ad-hoc-1
+#number-theory #ad-hoc-1<br>
 
 Nestor was doing the work of his math class about three days but he is tired of make operations a lot and he should 
 
@@ -18,12 +18,12 @@ For each test case output an integer per line representing the result.
 <br>
 <h3>Example</h3>
 <pre>
-  Input:
-  2
-  3 10
-  6 2
+Input:
+2
+3 10
+6 2
   
-  Output:
-  9
-  6  
+Output:
+9
+6  
 </pre>
