@@ -230,6 +230,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0605-can-place-flowers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -320,6 +321,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0412-fizz-buzz](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -386,6 +388,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
