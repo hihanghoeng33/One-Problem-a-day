@@ -175,6 +175,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
@@ -213,6 +214,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -342,6 +344,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
@@ -394,6 +397,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1086-divisor-game) |
@@ -424,6 +428,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
