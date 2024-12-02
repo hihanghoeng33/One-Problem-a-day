@@ -185,6 +185,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0455-assign-cookies](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -316,6 +317,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0657-robot-return-to-origin](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1205-defanging-an-ip-address) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -460,4 +462,8 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2491-smallest-even-multiple) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
