@@ -218,6 +218,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -449,6 +450,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0077-combinations) |
 ## Brainteaser
 |  |
