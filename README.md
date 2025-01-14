@@ -251,6 +251,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3221-find-the-peaks](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/3221-find-the-peaks) |
 ## Binary Search
 |  |
@@ -283,6 +284,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0461-hamming-distance](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
