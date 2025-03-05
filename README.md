@@ -196,6 +196,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
@@ -220,6 +221,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 | [0042-trapping-rain-water](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
@@ -266,6 +268,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0268-missing-number) |
@@ -311,6 +314,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0389-find-the-difference) |
