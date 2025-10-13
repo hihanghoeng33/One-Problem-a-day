@@ -1,22 +1,34 @@
 #include <iostream>
 #include <cmath>
 #include <string>
+#include <cstdlib>
+#include <ctime>
+
 using namespace std;
 
 //DES algorithm implementation: 16 round encryption
 // Array to store the initial permutation
 string roundKeys[16];
 
+// Generate a random key
+string generateRandomKey(){
+    string key = "";
+    srand(time(0));
+    for( int i = 0; i < 64; i++){
+        key += (rand()%2) ? "1" : "0";
+    }
+    return key;
+}
 
 // 4 bit binary to decimal
 string convertDecToBin(int dec){
     string bin = "";
     while(dec > 0){
-        bin += to_string(dec%2);
+        bin = (dec % 2 == 0 ? "0" : "1") + bin;
         dec /= 2;
     }
     while(bin.length() < 4){
-        bin += "0";
+        bin = "0" + bin;
     }
     return bin;
 }
@@ -42,6 +54,48 @@ string ASCIItoBin(string str){
         for ( int i = 0; i < 8; i++ ){
             charBin = ((val%2 == 0) ? "0" : "1") + charBin;
             val/=2; 
+        }
+        bin += charBin;
+    }
+    return bin;
+}
+
+string convertBinToHex(string bin){
+    string hex = "";
+    int len = bin.length();
+
+    if(len%4 != 0){
+        int padding = 4 - (len%4);
+        for ( int i = 0; i < padding; i++ )
+            bin = "0" + bin;
+        len = bin.length();
+    }
+    for ( int i = 0; i < len; i+=4){
+        string bytes = bin.substr(i, 4);
+        int dec = convertBinToDec(bytes);
+        if(dec < 10){
+            hex += to_string(dec);
+        }else{
+            hex += (char)(dec - 10 + 'A');
+        }
+    }
+    return hex;
+}
+
+string convertHexToBin(string hex){
+    string bin = "";
+    int len = hex.length();
+    for (char &c : hex){
+        c = toupper(c);
+        string charBin = "";
+        int val;
+        if( c >= '0' && c <= '9') {
+            val = c - '0';
+        }else{
+            val = c - 'A' + 10;
+        }
+        for (int i = 3; i >= 0; i--){
+            charBin += ((val%2 == 0) ? "1" : "0");
         }
         bin += charBin;
     }
@@ -310,6 +364,7 @@ string removePadding(string binText){
 }
 
 string decrypt(string ct, string key){
+    generateKeys(key);
     int i = 15, j = 0;
     while(i > j){
         string temp = roundKeys[i];
@@ -332,8 +387,9 @@ string decrypt(string ct, string key){
 }
 
 int main(){
-    string key = "1010101010111011000010010001100000100111001101101100110011011101";
+    string key = generateRandomKey();
     string pt;
+    
     cout << "Enter Plain Text: ";
     getline(cin, pt);
     
@@ -341,6 +397,7 @@ int main(){
     string binary_pt = ASCIItoBin(pt);
     string padded_pt = addPadding(binary_pt);
 
+    cout << "Key (in hex): " << convertBinToHex(key) << endl;
     cout << "Plaintext: " << pt << endl;
     cout << "Padded Binary Length: " << padded_pt.length() << " bits" << endl;
 
@@ -348,6 +405,7 @@ int main(){
     int total_blocks = padded_pt.length() / 64;
     string apt = pt;
 
+    // Binary
     for (int i = 0; i < total_blocks; i++) {
         pt = padded_pt.substr(i * 64, 64); 
         string block_ct = DES(pt); 
@@ -355,6 +413,9 @@ int main(){
     }
     cout << "Ciphertext (in binary): " << full_ct << endl;
 
+    // Hex
+    string full_ct_hex = convertBinToHex(full_ct);
+    cout << "Ciphertext (in hex): " << full_ct_hex << endl;
     // Decryption
     cout << "Apt: " << apt << endl;
     string decrypted = decrypt(full_ct, key);
