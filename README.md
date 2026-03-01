@@ -268,6 +268,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0217-contains-duplicate) |
@@ -292,6 +293,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0263-ugly-number) |
@@ -313,6 +315,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0151-reverse-words-in-a-string) |
