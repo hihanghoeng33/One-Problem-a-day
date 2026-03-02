@@ -315,6 +315,7 @@ Every accepted solution will be documented in every folder in this repo. The fol
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hihanghoeng33/One-Problem-a-day/tree/master/0049-group-anagrams) |
